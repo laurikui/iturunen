@@ -1,6 +1,7 @@
 package fi.academy;
 
 
+
 public class Person {
     String address;
     String city;
